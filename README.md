@@ -1,2 +1,3 @@
 # Basic-concepts-code-code.cpp-
-c++ basics concepts code of c++ language
+ This file contain the ( basic concepts) codes of c++ language.
+
